@@ -1,0 +1,68 @@
+.container-perfil {
+    max-width: 80%;
+    margin: auto;
+    margin-top: 15vh;
+}
+
+.titulo-inicio {
+    margin: 49px 0;
+    font-size: 3.5vw;
+    width: 100%;
+    font-weight: 500;
+}
+
+.escolha-perfil {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.perfil {
+    margin: 0 2vw 0 0 ;
+}
+
+.foto-perfil {
+    display: flex;
+    width: 10vw;
+    height: 10vw;
+    max-width: 200px;
+    max-height: 200px;
+    min-width: 84px;
+    min-height: 84px;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 0.6em;
+}
+
+.foto-perfil:hover {
+    background: var(--branco-transparente);
+    color: var(--branco-transparente);
+    border: .2em solid var(--branco-transparente);
+}    
+
+
+.link {
+    margin:.6em 0;
+    font-size: 1vw;
+    color: var(--cinza);
+    font-weight: 500;
+    text-decoration: none;   
+}
+
+.link:hover {
+    color: var(--branco-transparente);
+}
+
+.gerenciar {
+    width: 15%;
+    margin: 2em 0 1em 0;
+    padding: 0.5em 1.5em;
+    background-color: transparent;
+    border: .1em solid var(--cinza);
+    display: inline-block;
+}
+
+.gerenciar:hover {
+    color: var(--branco-transparente);
+    border: .1em solid var(--branco-transparente);
+}

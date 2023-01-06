@@ -6,7 +6,7 @@
 | :fire: Desafio | Criar uma Página inspirada na Netflix
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](#vitrinedev)
+![](https://github.com/jumotac/ImersaoDev2-Juflix/blob/master/img/juflix-tela.png#vitrinedev)
 
 
 # IMERSÃO DEV2 :woman_technologist:
